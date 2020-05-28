@@ -1,0 +1,39 @@
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\DAL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\DAL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\obj\Debug\DAL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\obj\Debug\DAL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\BancoDadosBiblioteca_ISPIL.mdf
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\BancoDadosBiblioteca_ISPIL_log.ldf
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\MODELO.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\MODELO.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\BancoDadosBiblioteca_ISPIL.mdf
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\BancoDadosBiblioteca_ISPIL_log.ldf
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\DAL.dll.config
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\DAL.dll
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\DAL.pdb
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\MODELO.dll
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\MODELO.pdb
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\obj\Debug\DAL.dll
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\obj\Debug\DAL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\BancoDadosBiblioteca_ISPIL.mdf
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\BancoDadosBiblioteca_ISPIL_log.ldf
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\DAL.dll.config
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\DAL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\DAL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\MODELO.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\MODELO.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\obj\Debug\DAL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\obj\Debug\DAL.pdb
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\BancoDadosBiblioteca_ISPIL.mdf
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\BancoDadosBiblioteca_ISPIL_log.ldf
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\DAL.dll.config
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\DAL.dll
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\DAL.pdb
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\MODELO.dll
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\bin\Debug\MODELO.pdb
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\obj\Debug\DAL.dll
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\DAL\obj\Debug\DAL.pdb

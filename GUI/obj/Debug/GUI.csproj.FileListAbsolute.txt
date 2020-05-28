@@ -1,0 +1,183 @@
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\GUI.exe.config
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\GUI.exe
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\GUI.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.exe
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmLoginUsuarios.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmMenuAcessoPrincipal.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BancoDadosBiblioteca_ISPIL.mdf
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BancoDadosBiblioteca_ISPIL_log.ldf
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BLL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\MODELO.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\DAL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BLL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\MODELO.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\DAL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroEditora.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultaEditoras.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroAutores.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarAutores.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroLivros.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarLivros.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroLeitores.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarLeitores.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroBibliotecarios.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarBibliotecarios.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastrarReservarLivros.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroEmprestimo.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroDevolucao.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarLivrosReservados.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastrarAutoresParaLivros.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroRenovarEmprestimo.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\GUI.exe.config
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.exe
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.pdb
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BancoDadosBiblioteca_ISPIL.mdf
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BancoDadosBiblioteca_ISPIL_log.ldf
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\GUI.exe
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\GUI.pdb
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BLL.dll
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\MODELO.dll
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\DAL.dll
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BLL.pdb
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\MODELO.pdb
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\DAL.pdb
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastrarAutoresParaLivros.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastrarReservarLivros.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroAutores.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroBibliotecarios.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroDevolucao.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroEditora.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroEmprestimo.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroLivros.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroLeitores.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroRenovarEmprestimo.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultaEditoras.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarAutores.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarBibliotecarios.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarLeitores.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarLivros.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarLivrosReservados.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmLoginUsuarios.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmMenuAcessoPrincipal.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\GUI.exe.config
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.exe
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.pdb
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BancoDadosBiblioteca_ISPIL.mdf
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BancoDadosBiblioteca_ISPIL_log.ldf
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\GUI.exe
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\GUI.pdb
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BLL.dll
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\MODELO.dll
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\DAL.dll
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BLL.pdb
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\MODELO.pdb
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\DAL.pdb
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastrarAutoresParaLivros.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastrarReservarLivros.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroAutores.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroBibliotecarios.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroDevolucao.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroEditora.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroEmprestimo.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroLivros.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroLeitores.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroRenovarEmprestimo.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultaEditoras.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarAutores.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarBibliotecarios.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarLeitores.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarLivros.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarLivrosReservados.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmLoginUsuarios.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmMenuAcessoPrincipal.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BancoDadosBiblioteca_ISPIL.mdf
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BancoDadosBiblioteca_ISPIL_log.ldf
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\GUI.exe.config
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\GUI.exe
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\GUI.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BLL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\MODELO.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\DAL.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BLL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\MODELO.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\DAL.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastrarAutoresParaLivros.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastrarReservarLivros.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroAutores.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroBibliotecarios.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroDevolucao.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroEditora.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroEmprestimo.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroLivros.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroLeitores.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroRenovarEmprestimo.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultaEditoras.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarAutores.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarBibliotecarios.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarLeitores.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarLivros.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarLivrosReservados.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmEnviarSMS.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FRMENVIAR_SMS.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmLoginUsuarios.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmMenuAcessoPrincipal.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmRelatorioDeLivrosCadastrados.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmRelatorioPeloCodigoLivro.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\RdlCompile.cache
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.exe
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.pdb
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmRelatorioPersoalizado.resources
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\João Eduardo Pequena\Documents\Visual Studio 2012\Projects\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.Form1.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\GUI.exe.config
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.exe
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.pdb
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.Form1.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastrarAutoresParaLivros.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastrarReservarLivros.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroAutores.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroBibliotecarios.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroDevolucao.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroEditora.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroEmprestimo.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroLivros.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroLeitores.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmCadastroRenovarEmprestimo.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultaEditoras.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarAutores.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarBibliotecarios.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarLeitores.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarLivros.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmConsultarLivrosReservados.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmEnviarSMS.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FRMENVIAR_SMS.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmLoginUsuarios.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.FrmMenuAcessoPrincipal.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BancoDadosBiblioteca_ISPIL.mdf
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BancoDadosBiblioteca_ISPIL_log.ldf
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\GUI.exe
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\GUI.pdb
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BLL.dll
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\MODELO.dll
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\DAL.dll
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\BLL.pdb
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\MODELO.pdb
+D:\j\SISTEMA_DA_BIBLIOTECA_DO_ISPIL\GUI\bin\Debug\DAL.pdb
